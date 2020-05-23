@@ -1,6 +1,3 @@
-// Giovanna Moreira Borsato Turma 22
-// Programa 1
-
 var v = [], aux=0, media, i; // vetor e variáveis
 
 for(i = 1; i<=6; i++) // laço de repetição
