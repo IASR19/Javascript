@@ -1,6 +1,3 @@
-// Giovanna Moreira Borsato Turma 22
-// Programa 2
-
 var a, c, v, vf;
 
 a = parseInt( prompt ("Digite a área: ") );
